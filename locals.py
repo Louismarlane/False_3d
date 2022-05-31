@@ -13,6 +13,8 @@ X_VEC = Vector2(1, 0.5) * 0.5
 Z_VEC = Vector2(-1, 0.5) * 0.5
 Y_VEC = Vector2(0, 1) * 0.5
 
+Y_PLAYER_VEC = Vector2(0, 0.125)
+
 MAX_FPS = 100
 
 
